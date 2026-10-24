@@ -1,0 +1,11 @@
+# Compiled binaries
+*.exe
+*.out
+food_ordering
+food_ordering.exe
+
+# IDE/editor files
+.vscode/
+.idea/
+*.suo
+*.user
